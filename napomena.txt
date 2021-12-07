@@ -1,0 +1,1 @@
+Obavezno pokrećite pomoću live servera jer vam inaće neće fetch raditi radi CORS policija (ne dozvoljava file protokol da se brka sa http-om).
